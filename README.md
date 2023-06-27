@@ -1,4 +1,4 @@
-### Olá eu sou o Fernando Asquidamini👋
+### Olá eu sou o Fernando Asquidamini 👋
 
 
 - 🔭 Atualmente trabalho como Supervisor de Suporte técnico.
