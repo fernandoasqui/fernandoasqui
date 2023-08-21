@@ -1,7 +1,7 @@
 ### Olá eu sou o Fernando Asquidamini 👋
 
 
-- 🔭 Atualmente trabalho como Supervisor de Suporte técnico.
+- 🔭 Atualmente trabalho como Analista de OSS.
 - 🌱 Estou estudando Python
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" 
