@@ -1,7 +1,7 @@
 ### Olá eu sou o Fernando Asquidamini 👋
 
 
-- 🔭 Atualmente trabalho como Analista de OSS.
+- 🔭 Atualmente trabalho como Analista de Automações Sr.
 - 🌱 Estou estudando Python
 - 🏠 São Miguel do Oeste - SC
 
