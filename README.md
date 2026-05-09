@@ -14,7 +14,7 @@
 ### Sobre mim
 
 - 🏢 Atualmente trabalhando na **[OSuper](https://www.osuper.com.br/)** — Plataforma de Supermercados Online e APP Delivery
-- 📚 Estudando **JavaScript, Python, HTML e CSS**
+- 📚 Estudando **TypeScript, React e Graphql**
 - 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/fernando-asquidamini-358507208/)
 
 ---
@@ -47,8 +47,3 @@
 
 ---
 
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=fernandoasqui&show_icons=true&locale=en&layout=compact&theme=default)
-
-</div>
